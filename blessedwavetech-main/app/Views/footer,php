@@ -1,0 +1,9 @@
+<footer class="bg-gray-800 text-white py-4">
+    <div class="container mx-auto flex justify-between items-center">
+        <p>&copy; <?= date('Y'); ?> BlessedWave. All rights reserved.</p>
+        <div class="flex space-x-4">
+            <a href="#" class="text-white">Privacy Policy</a>
+            <a href="#" class="text-white">Terms of Service</a>
+        </div>
+    </div>
+</footer>

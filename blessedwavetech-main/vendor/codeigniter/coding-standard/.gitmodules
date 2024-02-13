@@ -1,0 +1,3 @@
+[submodule "vendor/codeigniter/coding-standard"]
+    path = vendor/codeigniter/coding-standard
+    url = https://github.com/derikmuthee/Blessedtechwave.git
